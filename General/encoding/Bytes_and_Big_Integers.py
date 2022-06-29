@@ -1,5 +1,9 @@
-pip insatll cryptography
+pip install cryptography
+
+
 pip install pycryptodom
+
+
 from Crypto.Util.number import bytes_to_long
 from Crypto.Util.number import long_to_bytes
 
